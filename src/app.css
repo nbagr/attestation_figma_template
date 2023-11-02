@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Poppins";
+  font-weight: 400;
+  src: url("../assets/fonts/Poppins/Poppins-Black.ttf");
+}
+
+body {
+  font-family: "Poppins";
+}
+
+
+p {
+  color: green;
+}
